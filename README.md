@@ -1,7 +1,24 @@
-### Hi there 👋
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to design website 🐍 ☁️ </samp></h4>
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+
 <!--
-**playboyu1999/playboyu1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
