@@ -10,13 +10,6 @@
 <a href= "https://twitter.com/Skt_Ploy"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
-
 <!--
 **ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
